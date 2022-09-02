@@ -1,6 +1,7 @@
 baseURL = 'https://jonlinca.github.io/dragnum'
 languageCode = 'en-us'
 title = 'DRAGNUM Dragon Boat Calgary'
+# theme = 'themes/ananke'
 theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
 
 DefaultContentLanguage = "en"
