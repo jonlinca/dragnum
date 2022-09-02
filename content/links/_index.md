@@ -3,8 +3,6 @@ title: Links
 featured_image: ''
 omit_header_text: true
 type: page
-menu: main
-weight: 10
 ---
 
 DRAGNUM on Facebook:  https://www.facebook.com/groups/1450038741993006/

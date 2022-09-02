@@ -14,3 +14,65 @@ enableRobotsTXT = true
   changefreq = "monthly"
   priority = 0.5
   filename = "sitemap.xml"
+
+[[module.imports]]
+path = "github.com/FortAwesome/Font-Awesome"
+
+[menu]
+
+  [[menu.main]]
+      name = "About"
+      weight = 1
+      identifier = "about"
+      url = "/about/"
+
+  [[menu.main]]
+      name = "Coaching"
+      weight = 2
+      identifier = "coach"
+      url = "/coach/"
+
+  [[menu.main]]
+      name = "Race Results"
+      weight = 3
+      identifier = "raceresults"
+      url = "/raceresults/"
+
+  [[menu.main]]
+      name = "Gallery"
+      weight = 4
+      identifier = "gallery"
+      url = "/gallery/"
+
+  [[menu.main]]
+      name = "Contact"
+      weight = 5
+      identifier = "contact"
+      url = "/contact/"
+
+[[menu.main]]
+      name = "Links"
+      weight = 6
+      identifier = "links"
+      url = "/links/"
+
+  [[menu.main]]
+      weight = 1
+      parent = "gallery"
+      name = "Code of Conduct"
+      identifier = "conduct"
+      url = "/about/conduct/"
+
+  [[menu.main]]
+      weight = 2
+      parent = "about"
+      name = "Sponsors"
+      identifier = "sponsors"
+      url = "/about/sponsors/"
+
+  [[menu.main]]
+      weight = 3
+      parent = "about"
+      name = "Our Team"
+      identifier = "team"
+      url = "/about/team/"

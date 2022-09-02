@@ -3,8 +3,6 @@ title: Race Results
 featured_image: ''
 omit_header_text: true
 type: page
-menu: main
-weight: 4
 ---
 
 {{<table "table table-striped table-bordered">}}

@@ -2,8 +2,6 @@
 title: "Meet the coach!"
 description: "Shane Martin"
 type: page
-menu: main
-weight: 2
 ---
 Dragnum is lucky have a coach who has raced on Canada’s National dragon boat team!   Most recently, he earned a spot on the 2017 team, which was in Kunming, China in October.  He came home from China with a bronze, 3 silver, and 4 gold medals!  At the World’s in Hungary in 2013, Shane’s Canada crew won 3 gold and 1 bronze medal, and at the 2015 World’s in Welland, they came away with gold in all four categories.
 

@@ -3,8 +3,6 @@ title: About
 featured_image: ''
 omit_header_text: true
 type: page
-menu: main
-weight: 1
 ---
 
 DRAGNUM is a mixed team, comprised of a core who have been paddling together for more than a decade, plus awesome new recruits each season. We are a fitness oriented group and our goal is to place at or near the top of every festival we enter.
