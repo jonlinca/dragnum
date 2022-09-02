@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://jonlinca.github.io/dragnum'
 languageCode = 'en-us'
 title = 'DRAGNUM Dragon Boat Calgary'
 theme = "ananke"
