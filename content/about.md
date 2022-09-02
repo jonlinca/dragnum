@@ -18,7 +18,7 @@ We are always looking for new recruits. Are you interested in joining us? This i
 Boats are typically launched in May. Our practices will run between May to September, our on-water practices are twice weekly:
 
 * Thursdays from 7:00 PM - 8:30 PM
-* Sundays from 4:30 PM - 6:00 PM. 
+* Sundays from 4:30 PM - 6:00 PM.
 
 In September, Thursday evening practices will start earlier due to the shorter days.
 
