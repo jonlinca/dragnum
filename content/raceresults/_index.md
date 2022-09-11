@@ -5,19 +5,47 @@ omit_header_text: true
 type: page
 ---
 
+# 2022
+
+{{<table "table table-striped table-bordered">}}
+| Festival | Team | Category | Division/Race | Rank | 
+|:-----|:--|:--|:--|:--|
+| Lethbridge | Dragnum | Dragnum | Rec | 3 |
+| Calgary | Dragnum | Mixed | A | 4 |
+|  | Devils In Disguise | Women | A | 1 |
+|  | Dragnum | Mixed | 2000m | 3 |
+| Penticton | Dragnum | Mixed | Platinum / A | TBA |
+|  | x | Women | A | TBA |
+{{</table>}}
+
+# 2021
+
+{{<table "table table-striped table-bordered">}}
+| Festival | Team | Category | Division/Race | Rank | 
+|:-----|:--|:--|:--|:--|
+| Calgary Mini Regatta | Dragnum | Mixed | Fun | 1 |
+{{</table>}}
+
+# 2019
+
+{{<table "table table-striped table-bordered">}}
+| Festival | Team | Category | Division/Race | Rank | 
+|:-----|:--|:--|:--|:--|
+Portland Dragon Boat Festival | Dragnum | Mixed | ‘A’ / Final | 2 | 
+|  | The Wildlings | Women | ‘A’ / Final| 2 | 
+|  | | Masters | Final | 4 | 
+|  | | Open | Final | 4 | 
+| Calgary Dragon Boat Festival | Dragnum | Mixed | ‘A’ / Final | 5 |  |
+|  | Dragnum CPS Bad Buoys | Women | ‘A’ / Final | 3 |  |
+| Lethbridge Dragon Boat Festival | Dragnum | Mixed | ‘A’ / Final | 2 |  |
+|  | Dragnum Bad Buoys | Women | ‘A’ / Final | 1 |  |
+{{</table>}}
+
+# 2018 and prior
+
 {{<table "table table-striped table-bordered">}}
 | Year | Festival | Team | Category | Division/Race | Rank | 
-|---|---|---|---|---|---|---|
-| 2021 | Calgary Mini Regatta | Dragnum | Mixed | Fun | 1 |
-| 2019 | Portland Dragon Boat Festival | Dragnum | Mixed | ‘A’ / Final | 2 | 
-|  |  | The Wildlings | Women | ‘A’ / Final| 2 | 
-|  |  | | Masters | Final | 4 | 
-|  |  | | Open | Final | 4 | 
-| 2019 | Calgary Dragon Boat Festival | Dragnum | Mixed | ‘A’ / Final | 5 |  |
-|  |  | Dragnum CPS Bad Buoys | Women | ‘A’ / Final | 3 |  |
-| 2019 | Lethbridge Dragon Boat Festival | Dragnum | Mixed | ‘A’ / Final | 2 |  |
-|  |  | Dragnum Bad Buoys | Women | ‘A’ / Final | 1 |  |
-| 2018 | San Diego International Dragon Boat Race | Dragnum | Mixed-10  Mixed-20 Women-10 Open-10 | ‘I’ / Final  ‘II’ / Final ‘II’ / Final ‘II’ / Final | 3  1 2 1 |  |
+|:--- |:-----|:--|:--|:--|:--|
 | 2018 | Calgary Dragon Boat Festival | Dragnum | Mixed | ‘A’ / Consolation | 1 |  |
 |  |  | Dragnum (Hasta la Vista Babes) | Women | ‘A’ / Final | 2 |  |
 | 2018 | Lethbridge Dragon Boat Festival | Dragnum | Mixed | ‘A’ / Final | 3 |  |

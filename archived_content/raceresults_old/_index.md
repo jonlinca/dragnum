@@ -1,33 +1,10 @@
 ---
-title: Race Results 2
+title: Race Results (old v)
 featured_image: ''
 omit_header_text: true
 type: page
+hide_toc: true
 ---
-
-# 2021
-
-{{<table "table table-striped table-bordered">}}
-| Festival | Team | Category | Division/Race | Rank | 
-|:-----|:--|:--|:--|:--|
-| Calgary Mini Regatta | Dragnum | Mixed | Fun | 1 |
-{{</table>}}
-
-# 2019
-
-{{<table "table table-striped table-bordered">}}
-| Festival | Team | Category | Division/Race | Rank | 
-|:-----|:--|:--|:--|:--|
-Portland Dragon Boat Festival | Dragnum | Mixed | ‘A’ / Final | 2 | 
-|  | The Wildlings | Women | ‘A’ / Final| 2 | 
-|  | | Masters | Final | 4 | 
-|  | | Open | Final | 4 | 
-| Calgary Dragon Boat Festival | Dragnum | Mixed | ‘A’ / Final | 5 |  |
-|  | Dragnum CPS Bad Buoys | Women | ‘A’ / Final | 3 |  |
-| Lethbridge Dragon Boat Festival | Dragnum | Mixed | ‘A’ / Final | 2 |  |
-|  | Dragnum Bad Buoys | Women | ‘A’ / Final | 1 |  |
-{{</table>}}
-
 
 {{<table "table table-striped table-bordered">}}
 | Year | Festival | Team | Category | Division/Race | Rank | 
