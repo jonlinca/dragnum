@@ -15,7 +15,7 @@ type: page
 |  | Devils In Disguise | Women | A | 1 |
 |  | Dragnum | Mixed | 2000m | 3 |
 | Penticton | Dragnum | Mixed | Platinum / A | TBA |
-|  | x | Women | A | TBA |
+|  | Flowriders | Women | A | TBA |
 {{</table>}}
 
 # 2021
