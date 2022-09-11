@@ -1,8 +1,8 @@
 ---
-title: 2016 Portland
+title: 2015 Calgary
 featured_image: ''
 omit_header_text: true
 type: page
 ---
 
-{{< album 2016-portland >}}
+{{< album 2015-calgary >}}
