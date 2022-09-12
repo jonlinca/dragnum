@@ -9,8 +9,6 @@ DRAGNUM is a mixed club, comprised of a core who have been paddling together for
 
 We also often race the women’s division at festivals by joining forces with other teams.
 
-{{< youtube RfQbVnmEaXM >}}
-
 ## Season
 
 Boats are typically launched in May. Our practices run between May to September, our on-water practices are twice weekly:
