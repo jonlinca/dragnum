@@ -1,6 +1,6 @@
 ---
 title: Links
-featured_image: ''
+featured_image: 'IMG_9678.jpeg'
 omit_header_text: true
 type: page
 ---

@@ -1,6 +1,6 @@
 ---
 title: Contact
-featured_image: ''
+featured_image: 'IMG_9774.jpeg'
 omit_header_text: true
 type: page
 ---
