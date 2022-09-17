@@ -15,7 +15,8 @@ type: page
 | Calgary | Dragnum | Mixed | A | 4 |
 |  | Devils In Disguise | Women | A | 1 |
 |  | Dragnum | Mixed | 2000m | 3 |
-| Lethbridge | Dragnum | Dragnum | Rec | 3 |
+| Lethbridge | Dragnum | Mixed | Rec | 3 |
+|  | Red Tomatoes | Women | A | 1 |
 {{</table>}}
 
 # 2021
