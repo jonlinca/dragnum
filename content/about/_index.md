@@ -32,13 +32,11 @@ Off-season program - Structured and accountable with fitness testing
 Our semi-competitive team has the following expectations:
 
 Practices - Once to twice a week  
-Race Rosters - Get everyone race experience while being results oriented  
+Race Rosters - Get race experience while being results oriented  
 Off-season program - Encouraged  
 
-We practice as a club, together - we mix up teams reguarily to ensure everyone develops and grows as one cohesive club.
+We practice as a club, together - we mix up teams regularily to ensure everyone develops and grows as one cohesive club.
 
 ## Join
 
-We are always looking for new recruits, from novice to experienced paddlers. Are you interested in joining us? This is a great time to join the team. Use the [contact](../contact) form to let us know if you’d like to come on out and try a practice.
-
-
+We are always looking for new recruits, from novice to experienced paddlers. This is a great time to join the team. [Contact us](../contact) and let us know if you’d like to come on out and try a practice.
