@@ -11,7 +11,6 @@ type: page
 | Festival | Team | Category | Division/Race | Rank | 
 |:-----|:--|:--|:--|:--|
 | Penticton | Dragnum | Mixed | Platinum A | 3 |
-|  | Flowriders | Women | Platinum B | 2 |
 | Calgary | Dragnum | Mixed | A | 4 |
 |  | Devils In Disguise | Women | A | 1 |
 |  | Dragnum | Mixed | 2000m | 3 |
