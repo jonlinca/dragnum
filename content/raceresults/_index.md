@@ -5,6 +5,17 @@ omit_header_text: true
 type: page
 ---
 
+# 2023
+
+{{<table "table table-striped table-bordered">}}
+| Festival | Team | Category | Division/Race | Rank | 
+|:-----|:--|:--|:--|:--|
+| Calgary | Dragnum | Mixed |  |  |
+|  | Athena | Women |  |  |
+|  | Dragnum | Mixed | Barrel Race |  |
+| Lethbridge | Prairie Dragnum | Mixed | A Consolation | 3 |
+{{</table>}}
+
 # 2022
 
 {{<table "table table-striped table-bordered">}}
