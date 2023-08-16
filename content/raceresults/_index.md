@@ -12,7 +12,7 @@ type: page
 |:-----|:--|:--|:--|:--|
 | Calgary | Dragnum | Mixed | A Finals | 4 |
 |  | Athena | Women | A Finals | 2 |
-|  | Bro Bro Bro Your Boat | Open | | 1 | 
+|  | Bro Bro Bro Your Boat | Open | | 3 | 
 |  | Dragnum | Mixed | Barrel Race | 1 |
 | Lethbridge | Prairie Dragnum | Mixed | A Consolation | 3 |
 {{</table>}}
