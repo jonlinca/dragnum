@@ -10,9 +10,10 @@ type: page
 {{<table "table table-striped table-bordered">}}
 | Festival | Team | Category | Division/Race | Rank | 
 |:-----|:--|:--|:--|:--|
-| Calgary | Dragnum | Mixed |  |  |
-|  | Athena | Women |  |  |
-|  | Dragnum | Mixed | Barrel Race |  |
+| Calgary | Dragnum | Mixed | A Finals | 4 |
+|  | Athena | Women | A Finals | 2 |
+|  | Bro Bro Bro Your Boat | Open | | 1 | 
+|  | Dragnum | Mixed | Barrel Race | 1 |
 | Lethbridge | Prairie Dragnum | Mixed | A Consolation | 3 |
 {{</table>}}
 
