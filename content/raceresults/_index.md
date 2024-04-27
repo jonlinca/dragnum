@@ -10,6 +10,8 @@ type: page
 {{<table "table table-striped table-bordered">}}
 | Festival | Team | Category | Division/Race | Rank | 
 |:-----|:--|:--|:--|:--|
+| Penticton | Dragnum | Mixed | Platinum A | 2 |
+|  | Athena | Women | Platinum A | 3 |
 | Calgary | Dragnum | Mixed | A Finals | 4 |
 |  | Athena | Women | A Finals | 2 |
 |  | Bro Bro Bro Your Boat | Open | | 3 | 

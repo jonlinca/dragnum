@@ -13,9 +13,9 @@ We also often race the women’s division at festivals by joining forces with ot
 
 Boats are typically launched in May. Our practices run between May to September, our on-water practices are twice weekly:
 
-Thursdays from 7:00 PM - 8:30 PM
+Wednesdays from 7:00 PM - 8:30 PM
 
-Sundays from 4:30 PM - 6:00 PM
+Sundays from 8:45 AM - 10:00 AM
 
 In September, Thursday evening practices will start earlier due to the shorter days.
 

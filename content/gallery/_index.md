@@ -5,6 +5,8 @@ omit_header_text: true
 type: page
 ---
 
+[2023 Season](2023-season)
+
 [2022 Penticton](2022-penticton)
 
 [2022 Calgary](2022-calgary)
