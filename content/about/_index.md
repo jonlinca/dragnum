@@ -7,7 +7,7 @@ type: page
 
 DRAGNUM is a mixed club, comprised of a core who have been paddling together for more than a decade, plus awesome new recruits each season. We are a fitness oriented group and our goal is to place at or near the top of every festival we enter.
 
-We also have a women's crew called Dragnum - Storm.
+We also often race the women’s division at festivals by joining forces with other teams.
 
 ## Season
 
