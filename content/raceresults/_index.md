@@ -5,7 +5,7 @@ omit_header_text: true
 type: page
 ---
 
-# 2023
+# 2024
 
 {{<table "table table-striped table-bordered">}}
 | Festival | Team | Category | Division/Race | Rank | 
