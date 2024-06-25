@@ -10,6 +10,17 @@ type: page
 {{<table "table table-striped table-bordered">}}
 | Festival | Team | Category | Division/Race | Rank | 
 |:-----|:--|:--|:--|:--|
+| Lethbridge | Storm | Ladies | A Final | 2 |
+|  | Black | Mixed | A Final | 2 |
+|  | Red | Mixed | Rec Final | 1 |
+|  | Furioso | Open | Final | 2 |
+{{</table>}}
+
+# 2023
+
+{{<table "table table-striped table-bordered">}}
+| Festival | Team | Category | Division/Race | Rank | 
+|:-----|:--|:--|:--|:--|
 | Penticton | Dragnum | Mixed | Platinum A | 2 |
 |  | Athena | Women | Platinum A | 3 |
 | Calgary | Dragnum | Mixed | A Finals | 4 |
