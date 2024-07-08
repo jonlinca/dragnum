@@ -15,9 +15,9 @@ Boats are typically launched in May. Our practices run between May to September,
 
 Wednesdays from 7:00 PM - 8:30 PM
 
-Sundays from 8:45 AM - 10:00 AM
+Sundays from 9:00 AM - 10:30 AM
 
-In September, Thursday evening practices will start earlier due to the shorter days.
+In September, Wednesday evening practices will start earlier due to the shorter days.
 
 ## Structure
 
