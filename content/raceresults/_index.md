@@ -14,8 +14,13 @@ type: page
 |  | Black | Mixed | A Final | 2 |
 |  | Red | Mixed | Rec Final | 1 |
 |  | Furioso | Open | Final | 2 |
-{{</table>}}
+| Calgary | Storm | Ladies | A Final | 2 |
+|  | Black | Mixed | A Final | 2 |
+|  | Red | Mixed | A Consol | 4 |
+|  | Furioso | Open | Final | 3 |
+| San Diego |  |  |  |  |
 
+{{</table>}}
 # 2023
 
 {{<table "table table-striped table-bordered">}}
