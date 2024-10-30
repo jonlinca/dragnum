@@ -18,8 +18,14 @@ type: page
 |  | Black | Mixed | A Final | 2 |
 |  | Red | Mixed | A Consol | 4 |
 |  | Furioso | Open | Final | 3 |
-| San Diego |  |  |  |  |
-
+| San Diego | Black | Mixed Small Boat | A | 4 |
+| | Red | Mixed Small Boat | C | 2 |
+| | Storm | Mixed Small Boat | A | 4 |
+| | Furioso | Mixed Small Boat | A | 4 |
+| | Black | Mixed | B | 2 |
+| | Red Storm | Ladies | B | 2 |
+| | Furioso | Open | B | 1 |
+| | Northern Lights | Masters |  | 1 |
 {{</table>}}
 # 2023
 
