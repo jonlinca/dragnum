@@ -31,7 +31,7 @@ Off-season program - Structured and accountable with fitness testing
 
 Our semi-competitive team has the following expectations:
 
-Practices - Once to twice a week  
+Practices - Twice a week  
 Race Rosters - Get race experience while being results oriented  
 Off-season program - Encouraged  
 
