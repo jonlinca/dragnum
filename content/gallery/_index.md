@@ -1,6 +1,6 @@
 ---
 title: Gallery
-featured_image: '2022-penticton-chewie.jpg'
+featured_image: 'PHOTO-2025-02-13-11-43-04.jpg'
 omit_header_text: true
 type: page
 ---
