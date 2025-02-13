@@ -1,6 +1,6 @@
 ---
 title: Gallery
-featured_image: 'PHOTO-2025-02-13-11-43-04.jpg'
+featured_image: '2024-teamphoto.jpg'
 omit_header_text: true
 type: page
 ---
