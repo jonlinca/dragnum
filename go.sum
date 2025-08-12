@@ -1,4 +1,4 @@
-github.com/FortAwesome/Font-Awesome v4.7.0+incompatible h1:3trjm7NtX5NXlju1AxSWSzedDMq2hsfH78Qtqrc8EgY=
-github.com/FortAwesome/Font-Awesome v4.7.0+incompatible/go.mod h1:IUgezN/MFpCDIlFezw3L8j83oeiIuYoj28Miwr/KUYo=
-github.com/theNewDynamic/gohugo-theme-ananke v0.0.0-20220610193657-470ea40982f5 h1:VGGhujiIbPAGTzunwhrs4AGzDU3//45crPtbN0iW+Ck=
-github.com/theNewDynamic/gohugo-theme-ananke v0.0.0-20220610193657-470ea40982f5/go.mod h1:yY14BLqqh5G61rO81YcJKMHY1rClY5iIiUK+K2JKSUM=
+github.com/mfg92/hugo-shortcode-gallery v1.3.0 h1:7wiUUu7adN3JbcshZfZ+Q0ZLDilPoGkquoor0ZcdJVU=
+github.com/mfg92/hugo-shortcode-gallery v1.3.0/go.mod h1:SEdbeBGSMX2lP+4nCqqy9AyTWWktUMWXYnR3r1l01Rw=
+github.com/theNewDynamic/gohugo-theme-ananke/v2 v2.12.1 h1:SxVd2+ADMcMiNSsCnAdBnoMMZAUfwHDCvDExZ5fRseo=
+github.com/theNewDynamic/gohugo-theme-ananke/v2 v2.12.1/go.mod h1:+a6uqEsCq0+rqHWY5W5QA3P9DNnxcbyCw+CVEB+Uveg=
