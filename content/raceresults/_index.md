@@ -5,19 +5,26 @@ omit_header_text: true
 type: page
 ---
 
+# 2025
+
+{{<table "table table-striped table-bordered">}}
+| Festival | Team | Category | Division/Race | Rank | 
+|:-----|:--|:--|:--|:--|
+| Penticton | TBA | |  | |
+| Calgary | Storm | Ladies | A Final | 1 |
+|  | Black | Mixed | A Final | 1 |
+|  | Red | Mixed | A Final | 4 |
+|  | Furioso | Open | Final | 1 |
+| Lethbridge | Storm | Ladies | A Final | 1 |
+|  | Black | Mixed | A Final | 2 |
+|  | Red | Mixed | A Consol | 4 |
+{{</table>}}
+
 # 2024
 
 {{<table "table table-striped table-bordered">}}
 | Festival | Team | Category | Division/Race | Rank | 
 |:-----|:--|:--|:--|:--|
-| Lethbridge | Storm | Ladies | A Final | 2 |
-|  | Black | Mixed | A Final | 2 |
-|  | Red | Mixed | Rec Final | 1 |
-|  | Furioso | Open | Final | 2 |
-| Calgary | Storm | Ladies | A Final | 2 |
-|  | Black | Mixed | A Final | 2 |
-|  | Red | Mixed | A Consol | 4 |
-|  | Furioso | Open | Final | 3 |
 | San Diego | Black | Mixed Small Boat | A | 4 |
 | | Red | Mixed Small Boat | C | 2 |
 | | Storm | Mixed Small Boat | A | 4 |
@@ -26,7 +33,16 @@ type: page
 | | Red Storm | Ladies | B | 2 |
 | | Furioso | Open | B | 1 |
 | | Northern Lights | Masters |  | 1 |
+| Calgary | Storm | Ladies | A Final | 2 |
+|  | Black | Mixed | A Final | 2 |
+|  | Red | Mixed | A Consol | 4 |
+|  | Furioso | Open | Final | 3 |
+| Lethbridge | Storm | Ladies | A Final | 2 |
+|  | Black | Mixed | A Final | 2 |
+|  | Red | Mixed | Rec Final | 1 |
+|  | Furioso | Open | Final | 2 |
 {{</table>}}
+
 # 2023
 
 {{<table "table table-striped table-bordered">}}
