@@ -12,7 +12,7 @@ type: page
 |:-----|:--|:--|:--|:--|
 | Penticton | Storm | Ladies | Platinum A | 2 |
 |  | Black | Mixed | Platinum A | 1 |
-|  | Red | Mixed | Platinum B | 1 | 
+|  | Red | Mixed | Platinum B | 1 (Tied) | 
 | Calgary | Storm | Ladies | A Final | 1 |
 |  | Black | Mixed | A Final | 1 |
 |  | Red | Mixed | A Final | 4 |
