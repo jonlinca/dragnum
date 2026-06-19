@@ -25,7 +25,7 @@ path = 'github.com/theNewDynamic/gohugo-theme-ananke/v2'
 path = "github.com/mfg92/hugo-shortcode-gallery"
 
 [security]
-  allowContent = ['text/html', 'text/plain']
+  allowContent = ['text/html', 'text/markdown', 'text/plain']
 
 [caches]
   [caches.images]
