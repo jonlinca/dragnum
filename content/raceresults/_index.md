@@ -14,7 +14,7 @@ type: page
 |  | Black | Mixed | |  |
 |  | Red | Mixed |  |  | 
 | Calgary | Storm | Ladies | A Final | 2 |
-|  | Black | Mixed | A Final | 1 |
+|  | Black | Mixed | A Final | 2 |
 |  | Red | Mixed | A Final | 5 |
 |  | Prairie Dragon | Mixed | A Consol | 2 |
 |  | Furioso | Open | Final | 1 |
