@@ -5,6 +5,23 @@ omit_header_text: true
 type: page
 ---
 
+# 2026
+
+{{<table "table table-striped table-bordered">}}
+| Festival | Team | Category | Division/Race | Rank | 
+|:-----|:--|:--|:--|:--|
+| Penticton | Storm | Ladies |  |  |
+|  | Black | Mixed | |  |
+|  | Red | Mixed |  |  | 
+| Calgary | Storm | Ladies | A Final | 2 |
+|  | Black | Mixed | A Final | 1 |
+|  | Red | Mixed | A Final | 5 |
+|  | Prairie Dragon | Mixed | A Consol | 2 |
+|  | Furioso | Open | Final | 1 |
+| Lethbridge | Storm | Ladies | A Final | 1 |
+|  | Black | Mixed | A Final | 1 |
+|  | Red | Mixed | A Final | 3 |
+
 # 2025
 
 {{<table "table table-striped table-bordered">}}
