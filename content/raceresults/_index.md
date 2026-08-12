@@ -21,6 +21,7 @@ type: page
 | Lethbridge | Storm | Ladies | A Final | 1 |
 |  | Black | Mixed | A Final | 1 |
 |  | Red | Mixed | A Final | 3 |
+{{</table>}}
 
 # 2025
 
